@@ -1,4 +1,9 @@
 ## Hi there 👋
+## 🌱 I'm currently learning
+
+- 📱 Data Structure and Algorithms
+- HTML, CSS, GIT, PostgreSQL, MongoDB, Docker, Jest
+- TypeScript, NestJS, SQL
 
 <!--
 **toooweee/toooweee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
