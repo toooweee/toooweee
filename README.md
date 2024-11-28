@@ -5,6 +5,8 @@
 - HTML, CSS, GIT, PostgreSQL, MongoDB, Docker, Jest
 - TypeScript, NestJS, SQL
 
+## Connect with me<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"><br>
+
 <!--
 **toooweee/toooweee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
