@@ -1,8 +1,29 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=30&weight=600&pause=1000&color=FF0000&background=000000&center=true&vCenter=true&width=435&lines=%D0%9F%D0%9E%D0%93%D0%A0%D0%A3%D0%96%D0%95%D0%9D%D0%98%D0%95+%D0%92+%D0%9C%D0%A0%D0%90%D0%9A;zx%D1%81ursed+%D1%8D%D1%81%D1%82%D0%B5%D1%82%D0%B8%D0%BA%D0%B0;0x000000+%D0%9D%D0%90+%D0%AD%D0%9A%D0%A0%D0%90%D0%9D%D0%95" alt="Титульный текст"/>
+  <h1 style="font-family: 'MedievalSharp', cursive; color: #8b0000; text-shadow: 0 0 10px #ff0000; animation: lightning 2s infinite;">
+    ⛧̷͋͛͘Ẅ̵̛͠Ẻ̸̕͝L̶͌͠C̸͛̕Ȍ̴͠͠M̴͠͠E̶̛͝ ⛧
+  </h1>
 
   <img src="https://i.imgur.com/YqB8MKF.gif" width="100%" alt="Glitch Effect">
   <img src="https://github.com/rafaballerini/rafaballerini/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+
+  <div style="position: relative; height: 30px; margin: 20px 0;">
+    <div class="chain"></div>
+  </div>
+
+  <!-- Анимированные технологии -->
+  <div class="tech-grid">
+    <div class="tech-item">Redis</div>
+    <div class="tech-item">NestJS</div>
+    <div class="tech-item">Node.js</div>
+    <div class="tech-item">JavaScript</div>
+    <div class="tech-item">TypeScript</div>
+    <div class="tech-item">HTML/CSS</div>
+    <div class="tech-item">SQL</div>
+    <div class="tech-item">PostgreSQL </div>
+    <div class="tech-item">MySQL</div>
+    <div class="tech-item">MongoDB</div>
+    <div class="tech-item">Docker</div>
+  </div>
 </div>
 
 <p align="center"> <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=FFD43B"/> <img src="https://img.shields.io/badge/C%23-000000?style=flat-square&logo=c-sharp&logoColor=823085"/> <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/NeoVim-000000?style=flat-square&logo=neovim&logoColor=57A143"/> </p>
