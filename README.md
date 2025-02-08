@@ -1,12 +1,10 @@
 <div align="center">
   <h1 style="font-family: 'MedievalSharp', cursive; color: #8b0000; text-shadow: 0 0 10px #ff0000; position: relative;">
-  🩸𝔱𝔬𝔬𝔬𝔴𝔢𝔢𝔢
-    <div style="position: absolute; top: -20px; right: -30px;">⚰️</div>
+    Исламчик
   </h1>
 
   <div style="position: relative; margin: 20px 0;">
       <img src="https://i.pinimg.com/736x/71/3a/4f/713a4f70d5b49e20f7b6788f5bf2b9f9.jpg" width="100%" alt="">
-
   </div>
 
   <!-- Технологии с кастомными цветами -->
@@ -50,17 +48,7 @@
     <div style="height: 2px; background: linear-gradient(90deg, #8b0000 0%, #ff0000 50%, #8b0000 100%);"></div>
   </div>
 
-  <div align="center">
+  <div align="center" style="margin: 30px 0;>
     <img src="https://komarev.com/ghpvc/?username=toooweee&color=ff0000&style=flat-square" alt="Просмотры"/>
   </div>
 </div>
-
-<style>
-  .gothic-box {
-    border: 1px solid #8b0000;
-    border-radius: 5px;
-    padding: 15px;
-    margin: 10px 0;
-    box-shadow: 0 0 10px #ff000055;
-  }
-</style>
