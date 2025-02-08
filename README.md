@@ -3,9 +3,7 @@
     Исламчик
   </h1>
 
-  <div style="position: relative; margin: 20px 0;">
-      <img src="https://i.pinimg.com/736x/71/3a/4f/713a4f70d5b49e20f7b6788f5bf2b9f9.jpg" width="100%" alt="">
-  </div>
+  
 
   <!-- Технологии с кастомными цветами -->
   <p align="center">
@@ -36,7 +34,7 @@
     <a href="https://t.me/toooweee" target="_blank">
       <img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=26A5E4&color=8b0000"/>
     </a>
-    <a href="mailto:YOUR_EMAIL" target="_blank">
+    <a href="mailto:byprob03@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=EA4335&color=8b0000"/>
     </a>
     <a href="https://discord.com/users/YOUR_ID" target="_blank">
@@ -48,7 +46,11 @@
     <div style="height: 2px; background: linear-gradient(90deg, #8b0000 0%, #ff0000 50%, #8b0000 100%);"></div>
   </div>
 
-  <div align="center" style="margin: 30px 0;>
+  <div align="center" style="margin-top: 30px;>
     <img src="https://komarev.com/ghpvc/?username=toooweee&color=ff0000&style=flat-square" alt="Просмотры"/>
+  </div>
+
+  <div style="position: relative; margin: 20px 0;">
+      <img src="https://i.pinimg.com/736x/71/3a/4f/713a4f70d5b49e20f7b6788f5bf2b9f9.jpg" width="100%" alt="">
   </div>
 </div>
