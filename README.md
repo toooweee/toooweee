@@ -51,6 +51,6 @@
   </div>
 
   <div style="position: relative; margin: 20px 0;">
-      <img src="https://i.pinimg.com/736x/71/3a/4f/713a4f70d5b49e20f7b6788f5bf2b9f9.jpg" width="100%" alt="">
+      <img src="[https://i.pinimg.com/736x/71/3a/4f/713a4f70d5b49e20f7b6788f5bf2b9f9.jpg](https://i.pinimg.com/originals/2e/e7/50/2ee750e5a53cd60c65604f591ff6e99f.gif)" width="100%" alt="">
   </div>
 </div>
