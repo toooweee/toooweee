@@ -8,7 +8,6 @@
   <div align="center" style="animation: fadeIn 1.5s ease-in;">
     <p align="center">
       <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=8b0000"/>
-      <img src="https://img.shields.io/badge/REST_API-FF6B6B?style=for-the-badge&logo=api-dots&logoColor=white&labelColor=8b0000"/>
       <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white&labelColor=8b0000"/>
       <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white&labelColor=8b0000"/>
       <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white&labelColor=8b0000"/>
@@ -59,21 +58,4 @@
   <div align="center" style="margin-top: 30px; animation: pulse 2s infinite;">
     <img src="https://komarev.com/ghpvc/?username=toooweee&color=ff0000&style=flat-square" alt="Просмотры"/>
   </div>
-
-  <!-- Стили для анимаций -->
-  <style>
-    @keyframes fadeIn {
-      from { opacity: 0; transform: translateY(20px); }
-      to { opacity: 1; transform: translateY(0); }
-    }
-    @keyframes gradientFlow {
-      0% { background-position: -100% 0; }
-      100% { background-position: 200% 0; }
-    }
-    @keyframes pulse {
-      0% { transform: scale(1); }
-      50% { transform: scale(1.05); }
-      100% { transform: scale(1); }
-    }
-  </style>
 </div>
