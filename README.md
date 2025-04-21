@@ -35,6 +35,9 @@
     <img src="https://streak-stats.demolab.com?user=toooweee&theme=dark&background=000000&border=FF0000&stroke=FF0000&ring=FF0000&fire=FF0000&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF0000&sideLabels=FF0000&dates=808080" alt="Стрик"/>
   </div>
 
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
+
   <!-- Социальные иконки с анимацией -->
   <div align="center" style="margin-top:30px; display: flex; gap: 15px; justify-content: center;">
     <a href="https://t.me/toooweee" target="_blank" style="transition: transform 0.3s;" onmouseover="this.style.transform='rotate(5deg) scale(1.1)'" onmouseout="this.style.transform='none'">
@@ -52,9 +55,6 @@
   <div style="margin: 30px 0; position: relative; height: 4px;">
     <div style="height: 100%; width: 100%; background: linear-gradient(90deg, transparent 0%, #ff0000 50%, transparent 100%); animation: gradientFlow 2s infinite linear;"></div>
   </div>
-
-  <!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
   <!-- Счётчик посещений с пульсацией -->
   <div align="center" style="margin-top: 30px; animation: pulse 2s infinite;">
