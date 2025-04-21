@@ -53,6 +53,9 @@
     <div style="height: 100%; width: 100%; background: linear-gradient(90deg, transparent 0%, #ff0000 50%, transparent 100%); animation: gradientFlow 2s infinite linear;"></div>
   </div>
 
+  <!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
   <!-- Счётчик посещений с пульсацией -->
   <div align="center" style="margin-top: 30px; animation: pulse 2s infinite;">
     <img src="https://komarev.com/ghpvc/?username=toooweee&color=ff0000&style=flat-square" alt="Просмотры"/>
