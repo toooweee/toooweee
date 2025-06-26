@@ -26,10 +26,7 @@
   </div>
 
   <!-- Статистика с анимацией при наведении -->
-  <div align="center" style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=toooweee&show_icons=true&theme=dark&bg_color=000000&title_color=FF0000&icon_color=FF5555&border_color=FF0000&include_all_commits=true" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
-  </div>
-
+  
   <!-- Стрик с эффектом свечения -->
   <div style="margin: 20px 0; filter: drop-shadow(0 0 5px #ff0000);">
     <img src="https://streak-stats.demolab.com?user=toooweee&theme=dark&background=000000&border=FF0000&stroke=FF0000&ring=FF0000&fire=FF0000&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF0000&sideLabels=FF0000&dates=808080" alt="Стрик"/>
