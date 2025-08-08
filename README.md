@@ -56,6 +56,6 @@
   <!-- Счётчик посещений с пульсацией -->
   <div align="center" style="margin-top: 30px; animation: pulse 2s infinite;">
     <img src="https://komarev.com/ghpvc/?username=toooweee&color=ff0000&style=flat-square" alt="Просмотры"/>
-    [![wakatime](https://wakatime.com/badge/user/d0608a2c-439e-4da2-93d8-177b99ef7c09.svg)](https://wakatime.com/@d0608a2c-439e-4da2-93d8-177b99ef7c09)
+    <a href="https://wakatime.com/@d0608a2c-439e-4da2-93d8-177b99ef7c09"><img src="https://wakatime.com/badge/user/d0608a2c-439e-4da2-93d8-177b99ef7c09.svg" alt="Total time coded since Oct 17 2024" /></a>
   </div>
 </div>
